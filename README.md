@@ -14,6 +14,13 @@ A list of technologies used within the project:
 - CSS
 - JavaScript
 
+## Installation
+A little intro about the installation. 
+```
+$ git@github.com:santtier/Calculator.git
+$ cd Calculator
+```
+
 ## Collaboration
 Give instructions on how to collaborate with your project.
 There are a set of rules to keep in mind:
@@ -42,3 +49,6 @@ There are a set of rules to keep in mind:
 - Don't use clean code as an excuse to not comment at all.
 - Keep comments relevant as your code evolves.
 - Recommended using [JSDoc](https://www.youtube.com/watch?v=r0H-acWQS6c)
+
+## Demo
+If you want to see the demo of this proyect deployed, you can visit [Calculator](https://santtier.github.io/Calculator/ "Calculator")
